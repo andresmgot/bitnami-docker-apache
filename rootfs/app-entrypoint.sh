@@ -1,4 +1,5 @@
 #!/bin/bash -e
+# This is a test
 
 function initialize {
     # Package can be "installed" or "unpacked"
